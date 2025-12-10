@@ -1,0 +1,5 @@
+name: inewi-docs
+version: ~
+title: Dokumentacja inEwi
+nav:
+  - modules/ROOT/nav.adoc
