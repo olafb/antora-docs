@@ -1,0 +1,5 @@
+= Kontrybucja
+
+Jak możesz pomóc w rozwoju dokumentacji inEwi:
+
+. weź spisuj szczegóły na temat działania implementowanych funkcjonalności proszę 

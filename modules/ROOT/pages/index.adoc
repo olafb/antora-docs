@@ -1,3 +1,4 @@
-= Test!
+:description: inEwi - Najlepsza aplikacja do ewidencji czasu pracy w Polsce!
+= inEwi - Najlepsza aplikacja do ewidencji czasu pracy w Polsce!
 
 Testowanko setupu dokumentacji
