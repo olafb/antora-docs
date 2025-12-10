@@ -1,2 +1,4 @@
 * xref:contributing.adoc[]
 * xref:architecture.adoc[]
+* xref:dictionaries/index.adoc[]
+** xref:dictionaries/pages/requests.adoc[]

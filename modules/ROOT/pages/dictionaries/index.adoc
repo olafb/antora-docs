@@ -1,0 +1,3 @@
+= Słowniki nazw używanych w aplikacji
+
+Tu będą opisy słowników używanych w inEwi. A JEST ICH DUŻO DO OPISANIA.
