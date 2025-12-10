@@ -1,0 +1,13 @@
+site:
+  title: Dokumentacja inEwi
+  start_page: my-project::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/main/raw/build/ui-bundle.zip?job=build
+    snapshot: true
