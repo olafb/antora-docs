@@ -1,5 +1,0 @@
-= Dokumentacja inEwi
-:toc:
-:toclevels: 3
-
-Będziemy tu zbierać docsy przerurzne
